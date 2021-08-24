@@ -1,0 +1,7 @@
+numpy
+Flask
+ibm-cloud-sdk-core
+pickle-mixin
+sklearn
+matplotlib
+pandas
