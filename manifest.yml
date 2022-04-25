@@ -1,5 +1,0 @@
-applications:
-- instances: 1
-  name: mlsuhaimi-test
-  memory: 256M
-  health-check-type: process
